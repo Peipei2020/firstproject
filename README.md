@@ -1,9 +1,11 @@
 # firstproject
 this is the project in the programming course
 ## Introduction
-Introduciton by me
-## second section 
-   see
+Nice introduction words by both myself
+
+## backgroud
+
+
 ## usage
 
 ## output files
