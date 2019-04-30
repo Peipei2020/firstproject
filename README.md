@@ -1,6 +1,6 @@
 # firstproject
 this is the project in the programming course
-## first section
+## Introduction
 
 ## second section 
 
